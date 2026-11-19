@@ -1,4 +1,4 @@
-<img src="./assets/banner.svg" alt="João Pedro Campos, Ciência da Computação" width="100%"/>
+<img src="./banner.svg" alt="João Pedro Campos, Ciência da Computação" width="100%"/>
 
 ## Sobre
 
